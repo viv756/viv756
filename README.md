@@ -25,5 +25,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=viv756&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=viv756&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viv756&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=viv756&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viv756&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viv756&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
 
