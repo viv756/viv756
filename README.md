@@ -30,8 +30,7 @@ Passionate about leveraging technology to create impactful and user-friendly app
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=viv756&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </p>
 
-
-
-
 <p align="center">Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅.</p>
+
+---
 
