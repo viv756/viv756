@@ -30,10 +30,11 @@ Passionate about leveraging technology to create impactful and user-friendly app
     <img align = "center" src = "https://streak-stats.demolab.com/?user=viv756&theme=transparent" /> <br/> <br/>
 </p>
 
-<div classname="flex justify-center">
-     <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=viv756&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
-    <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=viv756&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=viv756&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=viv756&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </div>
+
 
 
 <p align="center">Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅.</p>
