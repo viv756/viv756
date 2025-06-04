@@ -5,7 +5,7 @@ Self taught `MERN` stack devoloper based in Thrissur, Kerala, curious to learn m
 distributed systems, loves problem solving and cares about writing readable as well as maintainable code.
 Passionate about leveraging technology to create impactful and user-friendly applications.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vr-vivek) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vivek-online.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vr-vivek) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vivek-online.vercel.app/)
 
 - 💻 Technologies: MongoDB, Express, React, Node.js, TypeScript
 
